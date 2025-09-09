@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Amal Suresh
-- 👀 I’m interested in web development,app development,Hacking and Game development 
-- 🌱 I’m currently learning nodejs
+- 👋 Hey, I’m Amal Suresh
+- 👀 Level designer and animation geek who loves turning code into cool 2D games. 
+- 🌱 Focused on advancing towards a career at Rockstar Games.
 - 💞️ I’m looking to collaborate with other developers
 - 📫 How to reach me - contact number-- +1 6474465772
 
